@@ -2,7 +2,7 @@
 
 A flutter copy of the bottom sheet menu you can find on Instagram.
 
-![20201125_150716](https://user-images.githubusercontent.com/51706943/100249907-5fb2dc80-2f3d-11eb-9ea2-57f80e16c2a6.gif)
+<img src="https://user-images.githubusercontent.com/51706943/100249907-5fb2dc80-2f3d-11eb-9ea2-57f80e16c2a6.gif"  height="600"/>
 
 ## How to use
 After adding the dependancy to your ```pubspec.yaml```, import it in your class :
