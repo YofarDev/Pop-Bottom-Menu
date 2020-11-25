@@ -91,5 +91,7 @@ class PopBottomMenuExample extends StatelessWidget {
   }
 ```
 
+To close the menu, use ```Navigator.of(context).pop()```
+
 
 
