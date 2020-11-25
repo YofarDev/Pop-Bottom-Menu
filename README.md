@@ -1,8 +1,8 @@
 # Pop Bottom Menu
 
-Pop Bottom Menu is the bottom sheet menu you can find on Instagram.
+A flutter copy of the bottom sheet menu you can find on Instagram.
 
-
+![20201125_150716](https://user-images.githubusercontent.com/51706943/100249907-5fb2dc80-2f3d-11eb-9ea2-57f80e16c2a6.gif)
 
 ## How to use
 After adding the dependancy to your ```pubspec.yaml```, import it in your class :
@@ -15,7 +15,7 @@ Call the ```PopBottomMenu()``` in the builder of a ```showModalBottomSheet``` li
 
 
 
-```flutter
+```dart
 
  void _showMenu() {
     showModalBottomSheet(
@@ -67,7 +67,7 @@ Call the ```PopBottomMenu()``` in the builder of a ```showModalBottomSheet``` li
 Then just call the function from where you want, like from a button :
 
 
-```flutter
+```dart
 class PopBottomMenuExample extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
