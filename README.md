@@ -11,7 +11,7 @@ After adding the dependancy to your ```pubspec.yaml```, import it in your class 
 import 'package:pop_bottom_menu/pop_bottom_menu.dart';
 ```
 
-Call the ```PopBottomMenu()``` in the builder of a ```showModalBottomSheet``` like that :
+Return the ```PopBottomMenu()``` in the builder of a ```showModalBottomSheet``` like that :
 
 
 
