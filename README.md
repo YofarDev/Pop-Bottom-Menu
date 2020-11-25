@@ -13,6 +13,8 @@ import 'package:pop_bottom_menu/pop_bottom_menu.dart';
 
 Return the ```PopBottomMenu()``` in the builder of a ```showModalBottomSheet``` like that :
 
+(don't forget to add ```backgroundColor: Colors.transparent``` )
+
 
 
 ```dart
