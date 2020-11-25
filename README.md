@@ -80,7 +80,7 @@ class PopBottomMenuExample extends StatelessWidget {
           color: Colors.blue,
           width: double.infinity,
           child: FlatButton(
-            onPressed: () => _showMenu(context),
+            onPressed: () => _showMenu(),
             child: Text("Open Pop Bottom Menu",
                 style: TextStyle(
                     fontWeight: FontWeight.bold, color: Colors.white)),
